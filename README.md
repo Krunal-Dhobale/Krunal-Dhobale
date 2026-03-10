@@ -1,6 +1,6 @@
-#Hi 👋 I'm Krunal Dhobale
+# Hi 👋 I'm Krunal Dhobale
 
-💻 Software Developer  
+💻 Computer Science Graduate
 🚀 Interested in Full Stack Development  
 🌱 Currently learning React.js, Next.js, and Node.js
 
@@ -9,12 +9,9 @@
 - React.js
 - Next.js
 - Node.js
-- Java
 - JavaScript
 - HTML
 - CSS
-- C#
-- .NET
 - SQL Server
 - Git
 - GitHub
