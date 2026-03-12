@@ -57,7 +57,7 @@ Technologies used:
 Email: krunaldhobale05@gmail.com 
 
 ## 📄 My Resume
-[Click here to view my resume](Krunal_Dhobale_Resume.pdf)
+[Click here to view my resume](Krunal_Dhobale_Resume(1).pdf)
 
 ---
 
