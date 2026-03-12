@@ -56,6 +56,8 @@ Technologies used:
 
 Email: krunaldhobale05@gmail.com 
 
+## Resume 
+
 ---
 
 ⭐ Always learning new technologies and improving development skills.
