@@ -2,16 +2,18 @@
 
 💻 Computer Science Graduate
 🚀 Interested in Full Stack Development  
-🌱 Currently learning React.js, Next.js, and Node.js
+🌱 Working with React.js, Next.js, and Node.js to build modern full-stack web applications.
 
 ## 🚀 Skills
 
+- Java
 - React.js
 - Next.js
 - Node.js
 - JavaScript
 - HTML
 - CSS
+- AWS
 - SQL Server
 - Git
 - GitHub
